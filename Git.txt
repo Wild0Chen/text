@@ -1,1 +1,1 @@
-Git Echo 
+Git Echo  尝试了好几遍感觉还是有点怪怪的，不知道为什么在设置，origin的时候总是提示我fatal: remote origin already exists;已经
